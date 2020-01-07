@@ -1,1 +1,45 @@
 
+[
+  {
+    "ch_id": 1,
+    "creationDate": null,
+    "state": 1,
+    "startingDate": null,
+    "endingDate": null,
+    "lattitude": 36.363920,
+    "longitude": 6.60855,
+    "street": "Centre-ville",
+    "city": "constantine",
+    "zipCode": "zip",
+    "country": "dz",
+    "cl_id": 1
+  },
+  {
+    "ch_id": 2,
+    "creationDate": null,
+    "state": 1,
+    "startingDate": null,
+    "endingDate": null,
+    "lattitude": 36.348505,
+    "longitude": 6.601099,
+    "street": "Amir Abelkader",
+    "city": "constantine",
+    "zipCode": "zip",
+    "country": "dz",
+    "cl_id": 1
+  },
+  {
+    "ch_id": 3,
+    "creationDate": null,
+    "state": 1,
+    "startingDate": null,
+    "endingDate": null,
+    "lattitude": 36.245138,
+    "longitude": 6.570929,
+    "street": "Univ. UC2",
+    "city": "constantine",
+    "zipCode": "zip",
+    "country": "dz",
+    "cl_id": 1
+  }
+]
